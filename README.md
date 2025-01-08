@@ -68,5 +68,5 @@
   <li>Administering and hardening systems against potential threats.</li>
 </ul>
 <p>Overall, this experience has strengthened my technical abilities and deepened my understanding of cybersecurity. It has also underscored the critical role of vigilance and continuous learning in protecting systems against evolving threats.</p>
-<p>I am grateful for the guidance provided by the MassCyberCenter mentorship program and look forward to applying these skills to future challenges in cybersecurity</p>
+<p>I am grateful for the guidance provided by the MassCyberCenter mentorship program and look forward to applying these skills to future challenges in cybersecurity.</p>
 
