@@ -18,7 +18,7 @@
 <img width="400" alt="vm_config" src="https://github.com/user-attachments/assets/ce95148e-a2aa-4e37-b5ab-ce37e593a800" />
 
 <h2> Breaking the Machine</h2>
-<p>GitLab version 16.0.0 was installed on the VM, which is affected by <strong>CVE-2023-2828</strong>, a vulnerability that allows unauthenticated users to read arbitrary files on the server by exploiting a path traversal bug. After conducting extensive research, I found a publicly available exploit on GitHub here: <a href="https://github.com/Occamsec/CVE-2023-2825" target="_blank">Occamsec for CVE-2023-2825</a>. </p>
+<p>GitLab version 16.0.0 was installed on the VM, which is affected by <strong>CVE-2023-2825</strong>, a vulnerability that allows unauthenticated users to read arbitrary files on the server by exploiting a path traversal bug. After conducting extensive research, I found a publicly available exploit on GitHub here: <a href="https://github.com/Occamsec/CVE-2023-2825" target="_blank">Occamsec for CVE-2023-2825</a>. </p>
 <p>For this project, I customized the exploit by editing the original Python code to allow user input at runtime and implementing error handling to make the script more interactive and robust. Below are the steps I followed to implement and execute the exploit on the vulnerable VM:</p>
 
 <ol>
